@@ -1,0 +1,1 @@
+./PhoenixMiner -pool eth-eu2.nanopool.org:9999 -wal 0x0793603beb3b7b1d09bb6767dd12de52aa02a3db.TuyulOnline/harijogja@gmail.com -epsw x -mode 1 -Rmode 1 -log 0 -mport 0 -etha 0 -retrydelay 1 -ftime 55 -tt 79 -tstop 89 -fanmin 30 -coin eth

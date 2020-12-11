@@ -1,0 +1,1 @@
+./PhoenixMiner -pool eu1.ethermine.org:4444 -wal 0x0793603beb3b7b1d09bb6767dd12de52aa02a3db -worker TuyulOnline -epsw x -mode 1 -log 0 -mport 0 -etha 0 -ftime 55 -retrydelay 1 -tt 79 -tstop 89  -coin eth
